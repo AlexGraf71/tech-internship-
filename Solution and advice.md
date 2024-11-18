@@ -71,13 +71,17 @@ ___
 Если взять самые красивые, понятные и стабильные автотесты и сложить их в папочку «new folder» с именами test_1, test_2 — они сразу станут непонятными и некрасивыми.
 Примеры: 
 
-* Иерархичная стурктура, понятные названия* 
+* Понятная структура и названия* 
 
-![](QA-trainee-assignment-spring-2024/images/img_4.png)
+![](<img width="248" alt="image" src="https://github.com/user-attachments/assets/d28b01eb-a122-48b8-872c-a0bc3f636af0">)
 
-* Плоская структура с безликими именами*
+![](<img width="291" alt="image" src="https://github.com/user-attachments/assets/bab5702d-6f38-4a1e-bf25-f733ffe59529">)
 
-![](QA-trainee-assignment-spring-2024/images/img_5.png)
+![](<img width="302" alt="image" src="https://github.com/user-attachments/assets/4bd4c03d-9b49-4deb-bf77-b432cee5a15e">)
+
+* Не только структура и названия, но и пояснение в README*
+
+![](<img width="1008" alt="image" src="https://github.com/user-attachments/assets/69c9d63f-2c01-4230-b7dd-ef2d3ab2dc5d">)
 
 #### Инструкция 
 Инструкция. Чем проще, тем лучше: склонировать, установить зависимости, запустить.
@@ -223,7 +227,7 @@ ___
 > Параметризация с помощью структуры позволяет максимально полно описать что и почему тестируется.
 
 #### Тесткейсы
-![](QA-trainee-assignment-spring-2024/images/img_7.png)
+![](<img width="947" alt="image" src="https://github.com/user-attachments/assets/e868b00a-3377-4672-bdaa-8023da179bff">)
 > Таблицу с узкими колонками и горизонтальным скроллом неудобно читать и понимать.
 
 ---
@@ -232,21 +236,17 @@ ___
 > 68 тест-кейсов начинаются с «1. С помощью Charles...». Можно упаковать в общие предусловия.   
 
 #### Багрепорт
-Чёткая структура, багрепорт — как карточка, которая помещается на один экран. Круто!
+Разработчики и коллеги QA скажут "Спасибо" за такое описание бага
 
-![](QA-trainee-assignment-spring-2024/images/img_6.png)
+![](<img width="753" alt="image" src="https://github.com/user-attachments/assets/89212ee4-8355-4db2-843a-3e3225e125fd">)
 
 #### Работа с Git
-![](QA-trainee-assignment-spring-2024/images/img_1.png)
-> Коммит с названием "1" лучше переименовать так, чтобы было понятно, что внутри коммита. 
+![](<img width="309" alt="image" src="https://github.com/user-attachments/assets/6d387cbb-bffe-4315-a7a0-de1bfabdb5f0">)
+> 200+ коммитов с такими "говорящими" названия не несут проекту никакой пользы 
 
 ---
-![](QA-trainee-assignment-spring-2024/images/img_2.png)
-> Здесь вся работа над тестами уложилась в час времени. Весьма похвальная скорость!
-
----
-![](QA-trainee-assignment-spring-2024/images/img_3.png)
-> .DS_Store — этот файл не несёт информации о проекте или исходном коде, лучше убрать
+![](<img width="315" alt="image" src="https://github.com/user-attachments/assets/942767d4-584e-4b9d-818b-2f020a6c9a4e">)
+> Лаконично и понятно!
 
 **Общий вывод:** 
 1. Документируйте историю изменений понятными названиями комитов
